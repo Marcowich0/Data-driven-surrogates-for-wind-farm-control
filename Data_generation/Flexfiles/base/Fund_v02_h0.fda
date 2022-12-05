@@ -1,0 +1,5 @@
+Found. data v. 0.2, Htop = 0 m
+ 0.0                        Htop   (m)
+ 0E6 0E6 0E6 0E6  0E6  0E6  M-diag
+ 1E8 1E8 1E8 1E8 5E10 5E10  K-diag   Kxx Kyy Kzz Kfixx Kfiyy Kfizz
+ 0  0  0  0  0  0           D-diag
